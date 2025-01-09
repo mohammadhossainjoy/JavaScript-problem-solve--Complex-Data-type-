@@ -23,7 +23,7 @@ Why: Bracket notation allows access to properties using variables.
 */
 let author = {
   firstName: "MH",
-  age: 25,
+  age: 26,
 };
 let propName = "firstName";
 console.log(author[propName]);
