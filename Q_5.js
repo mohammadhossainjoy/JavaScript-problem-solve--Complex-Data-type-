@@ -3,7 +3,7 @@
 //Array
 let Mobile = ["iphone", "android", "tab"];
 
-let fruits = new Array("Apple", "Banana", "Cherry");
+let fruits = new Array("Apple", "Banana", "Apple");
 
 let car = Array.of("BMW", "ODDI", "Bmw-8");
 
