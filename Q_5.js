@@ -8,8 +8,8 @@ let fruits = new Array("Apple", "Banana", "Apple");
 let car = Array.of("BMW", "ODDI", "Bmw-8");
 
 let person = [];
-person.push("MH");
 person.push("Mohammad");
+person.push("Hossain");
 person.push("Joy");
 
 //Object
